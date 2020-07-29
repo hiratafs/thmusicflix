@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "Músicas de Anime",
+      "link": "/",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Confira outras músicas de anime",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "「残酷な天使のテーゼ」MUSIC VIDEO（HDver.）/Zankoku na Tenshi no Te-ze“The Cruel Angel's Thesis”",
+          "url": "https://www.youtube.com/watch?v=o6wtDPVkKqI"
+        },
+        {
+          "titulo": "TANK! Virtual Session 2020 by SEATBELTS Produced by Yoko Kanno",
+          "url": "https://www.youtube.com/watch?v=2VsgkIE-RHg"
+        },
+        {
+          "titulo": "Macross Frontier Opening 2 HD",
+          "url": "https://www.youtube.com/watch?v=eEQ3JLP8cxQ"
+        },
+        {
+          "titulo": "Fly me to the moon - Claire Littley (e",
+          "url": "https://www.youtube.com/watch?v=TyltLy8lDPs"
+        },
+        {
+          "titulo": "Sailor Moon - Opening (1080p) [Japanese]",
+          "url": "https://www.youtube.com/watch?v=9WdSzmL80eE"
+        },
+        {
+          "titulo": "Rurouni Kenshin - Opening 2",
+          "url": "https://www.youtube.com/watch?v=z28rlVYetcQ"
+        },
+        {
+          "titulo": "Princess Jellyfish (海月姫) [OP- This is a Secret]",
+          "url": "https://www.youtube.com/watch?v=8qTaW7LRW9o"
+        },
+        {
+          "titulo": "Shurato (abertura em português e japonês)・Ricardo Cruz",
+          "url": "https://www.youtube.com/watch?v=-35Bm6KN5us"
+        }        
+      ]
+    },
+    {
+      "titulo": "Playlist de trabalho",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Confira a playlist de trabalho",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Bat For Lashes - Kids In The Dark (Official Video)",
+          "url": "https://www.youtube.com/watch?v=qm3Xg289qTM"
+        },
+        {
+          "titulo": "Morrissey - The more you ignore me, the closer I get",
+          "url": "https://www.youtube.com/watch?v=jGdSpYMsk5A"
+        },
+        {
+          "titulo": "Metric “Black Sheep” Guitar Center Session on DIRECTV",
+          "url": "https://www.youtube.com/watch?v=FP6nYVOyFSk"
+        },
+        {
+          "titulo": "Johnny Panic and the Bible of Dreams - Tears for Fears",
+          "url": "https://www.youtube.com/watch?v=7i717l2eeeE"
+        }, 
+        {
+          "titulo": "St. Vincent returns to Later... with Jools to perform Fast Slow Disco",
+          "url": "https://www.youtube.com/watch?v=pNbqvHMv4vI"
+        },
+        {
+          "titulo": "Wilco - Either way",
+          "url": "https://www.youtube.com/watch?v=otz5V3RnG1Q"
+        }
+      ]
+    },
+    {
+      "titulo": "Old School",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Confira mais músicas antigas",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Dusty Springfield - I Just Don't Know What To Do With Myself",
+          "url": "https://www.youtube.com/watch?v=xpsDE6KCY9s"
+        },
+        {
+          "titulo": "Don't Worry Baby - Beach Boys",
+          "url": "https://www.youtube.com/watch?v=9Y-0nWVdBH4"
+        },
+        {
+          "titulo": "The Crystals-Oh Yeah, Maybe Babyn",
+          "url": "https://www.youtube.com/watch?v=XLyCmu7MvEE"
+        },
+        {
+          "titulo": "Patsy Cline - She's Got You",
+          "url": "https://www.youtube.com/watch?v=MWCUh6tf7PA"
+        }
+      ]
+    },
+    {
+      "titulo": "Girl Power",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Janelle Monáe – Make Me Feel [Official Music Video]",
+          "url": "https://www.youtube.com/watch?v=tGRzz0oqgUE"
+        },
+        {
+          "titulo": "Mariya Takeuchi (竹内 まりや) - Plastic Love",
+          "url": "https://www.youtube.com/watch?v=3bNITQR4Uso"
+        },
+        {
+          "titulo": "Robyn - Call Your Girlfriend (Official Video)",
+          "url": "https://www.youtube.com/watch?v=F6ImxY6hnfA"
+        },
+        {
+          "titulo": "Sharon Jones And The Dap Kings - How Long Do I Have To Wait For You",
+          "url": "https://www.youtube.com/watch?v=ZRLAkT1j4Kg"
+        }
+      ]
+    },
+    {
+      "titulo": "Clássica",
+      "cor": "red",
+      "link_extra": {
+        "text": "Confira mais clássicos",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Rachmaninoff Piano Concerto No. 3, Argerich HQ COMPLETE",
+          "url": "https://www.youtube.com/watch?v=MOOfoW5_2iE"
+        },
+        {
+          "titulo": "Tchaikovsky 1812 Overture, Op 49 Herbert Von Karajan & Berlin Philharmonic Orchestra",
+          "url": "https://www.youtube.com/watch?v=ywvoFeHSuRA"
+        },
+        {
+          "titulo": "Andre Watts: Rachmaninoff Piano Concerto # 2",
+          "url": "https://www.youtube.com/watch?v=_rW6Ggk9ofU"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Martha Argerich - Prokofiev - Piano Concerto No 3 - Previn",
+          "url": "https://www.youtube.com/watch?v=FgnE25-kvyk"
+        }
+      ]
+    },
+    {
+      "titulo": "Covers",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Veja mais covers",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Regina Spektor covers Radiohead 'No Surprises' for Like A Version",
+          "url": "https://www.youtube.com/watch?v=e2EVKysrmxI"
+        },
+        {
+          "titulo": "Tears for Fears - Ashes to Ashes (David Bowie)",
+          "url": "https://www.youtube.com/watch?v=LReqeLYgjhQ"
+        },
+        {
+          "titulo": "Steven Padin - Don't Talk (Put Your Head On My Shoulder)",
+          "url": "https://www.youtube.com/watch?v=j69itrC-HPA"
+        },
+        {
+          "titulo": "Ben Gibbard - And I Love Him",
+          "url": "https://www.youtube.com/watch?v=0YDcinGIny4"
+        },
+        {
+          "titulo": "Radiohead - Ceremony (Joy Division cover)",
+          "url": "https://www.youtube.com/watch?v=cedNya7e8Uc"
+        }
+      ]
+    }
+  ]
+}
