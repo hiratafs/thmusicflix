@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react';
+import React from 'react';
 import VideoIframeResponsive from './components/VideoIframeResponsive';
 import { BannerMainContainer, ContentAreaContainer, WatchButton } from './styles'
 
@@ -11,11 +11,6 @@ export default function BannerMain({url, videoDescription, videoTitle}) {
         '$7',
       );
   }
-
-  useEffect(() => {
-    getYouTubeId(url)
-  }, [])
-
   
   const youTubeID = getYouTubeId(url);
   const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
